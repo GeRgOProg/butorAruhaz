@@ -1,0 +1,10 @@
+admin;admin;admin
+backup;abc123;admin
+proba;proba;user
+proba2;proba2;user
+felhasznalo;jelszo;user
+ujFelhasznalo;12345;user
+asd;asd;user
+felhasznalo;jelszo;user
+hello;world;user
+platy;jelszo;user
